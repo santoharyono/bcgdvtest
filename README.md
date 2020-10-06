@@ -4,13 +4,16 @@ Simple song search using flutter framework
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- This app only support for Android with minimum sdk 16 or android version 4.1 (Jelly Bean).
+- The app could search song track, play and stop the preview.
+- The app need internet connection to perform the features.
+- For build this app, please fork this repo and build with latest flutter using master channel or another channel that support build_runner.
+    * To check flutter channel please run "flutter channel" in your terminal or command prompt and you will see list of channel and show the current channel with asterisk (*)
+- Use this repo using Visual studio code or Android studio with flutter and emulator or Android device.
+- For debug purpose, you could run the app following this:
+    * cd path/to/flutter/app
+    * run "flutter run" in the terminal or command prompt
+    * or run directly at your supported IDE by press debug button.
 
-A few resources to get you started if this is your first Flutter project:
+- To generate APK please follow this instruction https://flutter.dev/docs/deployment/android 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
