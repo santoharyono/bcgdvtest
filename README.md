@@ -1,6 +1,6 @@
 # bcgdvtest
 
-A new Flutter application.
+Simple song search using flutter framework
 
 ## Getting Started
 
